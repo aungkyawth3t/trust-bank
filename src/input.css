@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.btn {
+  @apply bg-indigo-500 px-9 py-3 rounded-md capitalize cursor-pointer font-bold hover:opacity-80 duration-200;
+}
