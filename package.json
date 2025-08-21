@@ -13,5 +13,14 @@
     "@fortawesome/fontawesome-free": "^7.0.0",
     "@tailwindcss/cli": "^4.1.11",
     "tailwindcss": "^4.1.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aungkyawth3t/trust-bank.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aungkyawth3t/trust-bank/issues"
+  },
+  "homepage": "https://github.com/aungkyawth3t/trust-bank#readme"
 }
